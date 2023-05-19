@@ -1,0 +1,34 @@
+.contactPage {
+  margin: 20px;
+  }
+  
+  .contactPage h1 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+  }
+  
+  .contactPage form {
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  }
+  
+  .contactPage label {
+  margin-bottom: 10px;
+  }
+  
+  .contactPage input {
+  padding: 8px;
+  margin-bottom: 10px;
+  }
+  
+  .contactPage button {
+  background: linear-gradient(to right, #ff6a00, #ee0979);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  }

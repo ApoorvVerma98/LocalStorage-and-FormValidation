@@ -1,0 +1,25 @@
+.homePage {
+  margin: 20px;
+}
+
+.homePage h1 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.homePage p {
+  color: #666;
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.homePage .clearButton {
+  background: linear-gradient(to right, #ff6a00, #ee0979);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}

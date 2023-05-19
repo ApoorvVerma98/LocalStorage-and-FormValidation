@@ -1,0 +1,55 @@
+.taskPage {
+  margin: 20px;
+}
+
+.taskPage h1 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.taskPage .taskInput {
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.taskPage .addButton {
+  background: linear-gradient(to right, #ff6a00, #ee0979);
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.taskPage .taskList {
+  list-style-type: none;
+  padding: 0;
+}
+
+.taskPage .taskItem {
+  margin-bottom: 10px;
+}
+
+.taskPage .deleteButton {
+  background: #cc0000;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.taskPage .updateButton {
+  background: #555;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-left: 10px;
+}
